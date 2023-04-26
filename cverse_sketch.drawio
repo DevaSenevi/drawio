@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T14:07:37.893Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="h_OqcAQvq_iThBTTJyyQ" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T14:07:59.707Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sgpDMjt2z42kN4yDmvgH" version="21.1.4" type="github">
   <diagram id="I_fSzTSYJhP3WbuMLIgA" name="Page-1">
     <mxGraphModel dx="2901" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
           <mxGeometry x="838" y="236.07" width="239" height="183.93" as="geometry" />
         </mxCell>
         <mxCell id="iSJP6n-plgs5U3rNxnB9-50" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;User access to the platform. Three types of users based on function.&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Platform Developer:&amp;nbsp;&lt;/b&gt; Works on platform architecture code&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Application Developer: &lt;/b&gt;Works on&amp;nbsp; building the dockerised tools&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Platform User:&lt;/b&gt; Users who make use of the tools and functions available within the platform&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="THO80avu8P2htPNswEXX-16" vertex="1">
-          <mxGeometry x="35.89999999999998" width="203.1" height="183.93" as="geometry" />
+          <mxGeometry x="30" width="209" height="183.93" as="geometry" />
         </mxCell>
         <mxCell id="AIP2rtYdTXtsvyKJKe4--6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="THO80avu8P2htPNswEXX-16" vertex="1">
           <mxGeometry width="26.42" height="23.93" as="geometry" />
